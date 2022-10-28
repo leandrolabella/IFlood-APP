@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IFlood</string>
+    <string name="create_account">Criar Conta</string>
+    <string name="enter_full_name">Primeiro nome</string>
+    <string name="enter_username">Sobrenome</string>
+    <string name="enter_email">E-mail</string>
+    <string name="enter_password">Senha</string>
+    <string name="next_btn">Próximo</string>
+    <string name="login">LOGIN</string>
+</resources>
