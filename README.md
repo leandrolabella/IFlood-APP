@@ -35,9 +35,10 @@
 <h2>Tecnologias</h2>
 <p>- Java</p>
 <p>- Android</p>
+<p>- Firebase</p>
 <p>- Banco de dados Firestore</p>
 
 
 <h2>TCC</h2>
-<p>Você pode acessar uma cópia do documento clicando abaixo:</p>
+<p>Você pode acessar uma cópia do documento clicando a baixo:</p>
 [TCC.pdf](https://github.com/leandrolabella/IFlood/files/12643771/TCC.pdf)
